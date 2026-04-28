@@ -3,8 +3,11 @@ A collection of Jupyter notebooks documenting my beginning journey into quantum 
 Contents
 
 CSE_109 — Notebooks from my quantum computing coursework
+
 QCInPractice — Hands-on practical quantum computing exercises
+
 QuantumBasics/SingleSystems — Foundational concepts and single-system quantum mechanics
+
 algorithms — Quantum algorithms I've studied and experimented with
 
 About
