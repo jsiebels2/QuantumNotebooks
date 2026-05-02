@@ -8,7 +8,7 @@ QCInPractice — Hands-on practical quantum computing exercises
 
 QuantumBasics/SingleSystems — Foundational concepts and single-system quantum mechanics
 
-algorithms — Quantum algorithms I've studied and experimented with
+Algorithms — Quantum algorithms I've studied and experimented with
 
 About
 This repo serves as a personal learning log as I explore the world of quantum computing — from the basics of qubits and quantum gates to more complex algorithms. Some notebooks follow structured coursework while others reflect my own curiosity and self-guided learning.
